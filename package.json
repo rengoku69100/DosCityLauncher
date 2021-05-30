@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
-  "version": "1.8.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "name": "doscitylauncher",
+  "version": "1.12.2",
+  "productName": "DosCity Launcher",
+  "description": "Serveur modée DosCity",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) et Satoru Gojo",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/rengoku69100/DosCityLauncher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/rengoku69100/DosCityLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -45,6 +45,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/rengoku69100/DosCityLauncher.git"
   }
 }
